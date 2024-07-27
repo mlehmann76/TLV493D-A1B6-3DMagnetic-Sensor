@@ -63,7 +63,7 @@ typedef enum Tlv493d_Error
  *
  * Feel free to undefine this and increase your I2C bus speed if you need to. 
  */
-#define TLV493D_ACCELERATE_READOUT
+//#define TLV493D_ACCELERATE_READOUT
 
 
 class Tlv493d
